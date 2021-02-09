@@ -1,6 +1,6 @@
 # cvestream
 
-![Twitter Follow](https://img.shields.io/twitter/follow/leonjza)
+![@leonjza](https://img.shields.io/badge/twitter-%40leonjza-blue.svg)
 
 a small utility to dump NVD information
 
